@@ -76,7 +76,6 @@ Also interested in **entrepreneurship** and crafting scalable, high-quality soft
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openscad/openscad-original.svg" height="40" alt="OpenSCAD"/>
 </p>
 
 ---
