@@ -118,6 +118,7 @@ Also interested in **entrepreneurship** and crafting scalable, high-quality soft
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://img.shields.io/badge/Rust-%23E57373?style=for-the-badge&logo=rust&logoColor=white" height="40" alt="Rust"/>
   <img src="https://img.shields.io/badge/REST-007EC6?style=for-the-badge&logo=rest&logoColor=white" height="30" alt="REST"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="40" alt="Go"/>
 </p>
 
 ---
